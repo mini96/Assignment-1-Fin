@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1523927431 source:c:\users\menil\year 2\data structure alg\assignment 1 fin\main.cpp
+	<iostream>
+	<stdlib.h>
+	<vector>
+	<time.h>
+	<cmath>
+	<queue>
+	"State.h"
+	"Game.h"
+
+1524022144 c:\users\menil\year 2\data structure alg\assignment 1 fin\include\state.h
+	<iostream>
+	<vector>
+	<stdlib.h>
+	<time.h>
+
+1524019131 c:\users\menil\year 2\data structure alg\assignment 1 fin\include\game.h
+
+1582795461 source:d:\mini backup\year 2\data structure alg\assignment 1 fin\main.cpp
+	<iostream>
+	<stdlib.h>
+	<vector>
+	<time.h>
+	<cmath>
+	<queue>
+	<cstdio>
+	"State.h"
+	"Game.h"
+
+1524025746 d:\mini backup\year 2\data structure alg\assignment 1 fin\include\state.h
+	<iostream>
+	<vector>
+	<stdlib.h>
+	<time.h>
+
+1582796827 d:\mini backup\year 2\data structure alg\assignment 1 fin\include\game.h
+
